@@ -3,7 +3,7 @@ layout: author
 name: hym
 title: 황영민
 image: /files/authors/hym.gif
-cover: /files/covers/poo_hym.jpeg
+cover: /files/covers/poo_hym.jpg
 ---
 
 경산과학고등학교 2학년 재학중.
